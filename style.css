@@ -44,6 +44,7 @@ body{
 .pixel{
     background-color: rgb(61, 61, 61);
     border-radius: 1px;
+    cursor: pointer;
 }
 
 .container{
@@ -82,7 +83,7 @@ body{
     align-items: flex-start;
 }
 
-.number-pixel{
+.title-number-pixel, .number-pixel{
     color: #ffffff;
 }
 .used-pixel{
